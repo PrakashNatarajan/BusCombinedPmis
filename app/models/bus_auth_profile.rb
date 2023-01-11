@@ -1,0 +1,2 @@
+class BusAuthProfile < ApplicationRecord
+end

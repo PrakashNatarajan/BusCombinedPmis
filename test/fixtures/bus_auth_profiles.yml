@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  group_channel: MyString
+  role_level: MyString
+  role_user: MyString
+  role_prod: MyString
+  access_token: MyString
+  expired_at: 2022-12-21 00:45:29
+  created_at: 2022-12-21 00:45:29
+  updated_at: 2022-12-21 00:45:29
+
+two:
+  group_channel: MyString
+  role_level: MyString
+  role_user: MyString
+  role_prod: MyString
+  access_token: MyString
+  expired_at: 2022-12-21 00:45:29
+  created_at: 2022-12-21 00:45:29
+  updated_at: 2022-12-21 00:45:29

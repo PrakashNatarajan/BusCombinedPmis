@@ -1,0 +1,2 @@
+class BasePmisController < ApplicationController
+end

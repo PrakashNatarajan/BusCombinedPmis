@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  target: MyString
+  achiev: MyString
+  last_updated: MyString
+
+two:
+  target: MyString
+  achiev: MyString
+  last_updated: MyString
