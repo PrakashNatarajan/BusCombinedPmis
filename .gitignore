@@ -17,6 +17,9 @@ capybara-*.html
 # Ignore schema.
 /db/bus_hiers_maps.json
 
+# Ignore Rough commands
+rough_commands.txt
+
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal
